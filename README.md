@@ -42,6 +42,8 @@ Here are some of my featured repositories:
 | [DBVision](https://dbdiagram-ai-azet.vercel.app/) | Designed and shipped an AI-assisted dbdiagram mirror that converts a simple prompt to Postgres DDL and Entity Relationship Diagram | Next, Postgres, Kimi-K2 | ★★★ |
 | [SmallTalks](https://small-talks-c376.onrender.com/chats) | Engineered a full-stack real-time communication platform supporting direct messaging, group chat, and P2P video calls | React, Node, Socket.io, WebRTC | ★★★★★ |
 | [PDF-RAG](https://github.com/Indroneel007/PDF-RAG) | PDF-RAG is a powerful document-based question answering system that allows users to upload PDF documents and ask questions about their content. The system leverages Retrieval-Augmented Generation (RAG) to provide accurate and context-aware responses by combining the power of language models with document retrieval capabilities. | Next, Ollama, QuantDB, Embeddings | ★★★ |
+| [Whiteboard](https://github.com/Indroneel007/Whiteboard) | A real-time collaborative whiteboard application where you can draw whatever you want | React, Node, Canvas, TypeScript | ★★★ |
+| [CrawlCore](https://github.com/Indroneel007/web-scraper-pro) | Built a multi-tasking application to scrape multiple webpages and provide knowledge graph of the required jobs | Next, Node, Browserless, Puppeteer | ★★★ |
 <!-- Add more projects as needed -->
 
 ---
