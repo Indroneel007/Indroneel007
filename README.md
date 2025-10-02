@@ -40,8 +40,7 @@ Here are some of my featured repositories:
 | [FinPal](https://fin-pal.vercel.app/) | Fullstack budget tracking and money transaction application with AI assistance with monthly budget control | Golang, React | ★★★★ |
 | [ResuMail](https://github.com/Indroneel007/ResuMate) | Developed a multi-agent career outreach platform using LangGraph agents for autonomous orchestration between resume summarization, company scraping, and email workflows | Next, LangGraph, Puppeteer | ★★★★ |
 | [DBVision](https://dbdiagram-ai-azet.vercel.app/) | Designed and shipped an AI-assisted dbdiagram mirror that converts a simple prompt to Postgres DDL and Entity Relationship Diagram | Next, Postgres, Kimi-K2 | ★★★ |
-| [SmallTalks](https://small-talks-c376.onrender.com/chats) | Engineered a full-stack real-time communication platform supporting direct messaging, group chat, and peer-to-peer video calls 
-using WebRTC and Socket.IO | React, Node, Socket.io, WebRTC | ★★★★★ |
+| [SmallTalks](https://small-talks-c376.onrender.com/chats) | Engineered a full-stack real-time communication platform supporting direct messaging, group chat, and P2P video calls | React, Node, Socket.io, WebRTC | ★★★★★ |
 | [PDF-RAG](https://github.com/Indroneel007/PDF-RAG) | PDF-RAG is a powerful document-based question answering system that allows users to upload PDF documents and ask questions about their content. The system leverages Retrieval-Augmented Generation (RAG) to provide accurate and context-aware responses by combining the power of language models with document retrieval capabilities. | Next, Ollama, QuantDB, Embeddings | ★★★ |
 <!-- Add more projects as needed -->
 
