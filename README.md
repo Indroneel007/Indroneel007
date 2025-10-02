@@ -14,31 +14,31 @@
 
 ## 🚀 About Me
 
-- 🧑‍🎓 MNIT Jaipur graduate student  
-- 🛠 Love to work in backend  
-- 💻 Currently exploring depths of Golang and JavaScript
+- 🧑‍🎓 MNIT Jaipur 2025 graduate student  
+- 🛠 Hands on experience with 2 startups as Software Intern
+- 💻 Strong competitive programming profile with Specialist on Codeforces, 1750 @ Leetcode
 
 ---
 
 ## 💼 Experience  
 
-<p align="center">
+<p align="left">
   <b>Backend Developer Intern — ClientDrivenSolutions</b><br/>
   <i>Sept 25 - Present</i>
 </p>
 
-<p align="center">
+<p align="left">
   🔹 Working for a MedTech, built & scaled <b>secure REST APIs</b> with validation, auth & rate limiting <br/>
   🔹 Built entire Data processing and AI pipelines <br/>
   🔹 Capture user audio recording, transcribe it using AI models, and generate AI-assisted PDF summaries for doctors and patients.   
 </p>
 
-<p align="center">
+<p align="left">
   <b>Fullstack Intern — Metis AI</b><br/>
   <i>June 24 - Oct 24</i>
 </p>
 
-<p align="center">
+<p align="left">
   🔹 Developed and implemented the frontend architecture of a chat application <br/>
   🔹 Reduced response time by 3 sec in production <br/>
   🔹 anaged deployment pipelines on Github Actions and using AWS S3 for static hosting   
